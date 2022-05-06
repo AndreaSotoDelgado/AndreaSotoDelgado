@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+```javascript
+const andrea = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components],
+}
+```
 <!--
 **AndreaSotoDelgado/AndreaSotoDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
