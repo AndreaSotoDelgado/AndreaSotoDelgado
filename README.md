@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```javascript
-const andrea = {
+const andreasoto = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components],
