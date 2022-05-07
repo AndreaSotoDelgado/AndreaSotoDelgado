@@ -3,10 +3,9 @@
 Soy desarrolladora web, algunas tecnologías con las que disfruto trabajar incluyen, React, JavaScript, HTML, CSS y Android Studio.🌟</a> <a href="https://www.reactrobins.com/"></a>
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/68967379/167231113-e1e7a2f2-cf76-4f32-b711-e5e1fafec170.png?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Encuéntrame en la web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/68967379/167231113-e1e7a2f2-cf76-4f32-b711-e5e1fafec170.png?raw=true"></a>
+- Jugando con las interacciones en <a href="https://codepen.io/AndreaSotoDelgado"> Codepen</a> 🏓
+- Compartir actualizaciones en <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 ```javascript
 const andreasoto = {
   pronouns: "she" | "her",
